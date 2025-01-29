@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BlackSecOpss. I am Cybersecurity Researcher, and passionate about cybersecurity and penetration testing. 
+- 👋 Hi, I’m Sarthak Gandewar. I am Cybersecurity Researcher, and passionate about cybersecurity and penetration testing. 
 - 👀 I’m interested in Hacking and Penetration Testing.
 - 🌱 I’m currently pursuing B.Tech in Cybersecurity.
 - 📫 How to reach me = Telegram: @BlackSecOpss.
